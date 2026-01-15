@@ -1,0 +1,8 @@
+
+{
+  "name": "STRAT-X ICBM Simulation",
+  "description": "High-fidelity strategic ballistic missile trajectory simulation utilizing unique low-gravity anomalies in Sri Lanka for optimized flight paths.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
